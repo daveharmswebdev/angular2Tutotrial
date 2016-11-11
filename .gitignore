@@ -1,0 +1,11 @@
+node_modules
+bower_components
+dist/app/bundle.js
+dist/app/bundel.js.map
+dist/lib/es6-shim.map
+dist/lib/es6-shim.min.js
+dist/lib/Reflect.js
+dist/lib/Reflect.js.map
+dist/lib/zone.min.js
+typings
+
